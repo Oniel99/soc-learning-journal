@@ -15,4 +15,4 @@ The goal of this journal is to demonstrate **continuous learning** and **practic
 ## 📚 How to Use This Repo
 Each Markdown file in this repository represents a specific concept, tool, or workflow I have mastered. They are designed to be quick references for myself and proof of technical communication skills for hiring managers.
 
-*Last Updated: [Current Date]*
+*Last Updated: 30th september 2026
